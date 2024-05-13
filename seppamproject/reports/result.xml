@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.822">
+    <testcase classname="feature to test signin page" name="Login should be successfully entered" time="0.45">
+        <system-out><![CDATA[Given User enter the Emailid as "jeevimoni@toolfe.com"......................passed
+And User enter the password as "Otomate@123"................................passed
+When User click on the login button.........................................passed
+Then click on check-in button...............................................passed
+And click on project icon...................................................passed
+Then click on order icon....................................................passed
+And click on create task icon...............................................passed
+Given Click on search box display required text.............................passed
+And click certain task......................................................passed
+Then chat with certain task chat box........................................passed
+And click on kebab Menu and select create subtask...........................passed
+Then click on view subtask..................................................passed
+Given click on add subtask..................................................passed
+And drag the subtask to inprocess task and done.............................passed
+When task in done and give rating...........................................passed
+And click on home page......................................................passed
+Then click on my task tab and click create task icon........................passed
+]]></system-out>
+    </testcase>
+</testsuite>
